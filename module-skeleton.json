@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-module-billing-core-dart-mobile",
+  "capabilityKey": "planned:billing:module-billing-core",
+  "presentation": "dart-mobile",
+  "package": "module_billing_module_billing_core_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-core.md",
+  "presentationPlan": "projects/billing/features/module-billing-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
